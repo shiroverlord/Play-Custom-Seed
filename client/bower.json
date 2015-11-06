@@ -1,0 +1,46 @@
+{
+  "name": "Play Custom Seed",
+  "version": "1.0.0",
+  "description": "Web application project",
+  "authors": [
+    "Saint-Jean Pierrick"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "latest",
+    "angular": "latest",
+    "angular-mocks": "latest",
+    "angular-sanitize": "latest",
+    "angular-touch": "latest",
+    "angular-animate": "latest",
+    "angular-resource": "latest",
+    "angular-cookies": "~1.4.7",
+    "angular-messages": "~1.4.7",
+    "bootstrap": "~3.3.5",
+    "angular-bootstrap": "~0.14.3",
+    "angular-loading-bar": "~0.8.0",
+    "angular-locker": "~2.0.3",
+    "angular-smart-table": "~2.1.4",
+    "angular-moment": "~0.10.3",
+    "angular-ui-router": "~0.2.15",
+    "angular-utils-pagination": "~0.9.1",
+    "bignumber.js": "~2.1.0",
+    "moment-range": "~2.0.3",
+    "tinycolor": "~1.2.1",
+    "ui-router-extras": "~0.1.0",
+    "angular-cookie": "~4.0.9",
+    "angular-carousel": "~1.0.1"
+  },
+  "resolutions": {
+    "angular": "latest",
+    "angular-mocks": "latest"
+  },
+  "devDependencies": {}
+}
