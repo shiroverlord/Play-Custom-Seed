@@ -21,26 +21,25 @@
     "angular-touch": "latest",
     "angular-animate": "latest",
     "angular-resource": "latest",
-    "angular-cookies": "~1.4.7",
-    "angular-messages": "~1.4.7",
-    "bootstrap": "~3.3.5",
-    "angular-bootstrap": "~0.14.3",
-    "angular-loading-bar": "~0.8.0",
-    "angular-locker": "~2.0.3",
-    "angular-smart-table": "~2.1.4",
-    "angular-moment": "~0.10.3",
-    "angular-ui-router": "~0.2.15",
-    "angular-utils-pagination": "~0.9.1",
-    "bignumber.js": "~2.1.0",
-    "moment-range": "~2.0.3",
-    "tinycolor": "~1.2.1",
-    "ui-router-extras": "~0.1.0",
-    "angular-cookie": "~4.0.9",
-    "angular-carousel": "~1.0.1"
+    "angular-cookies": "latest",
+    "angular-messages": "latest",
+    "bootstrap": "latest",
+    "angular-bootstrap": "latest",
+    "angular-loading-bar": "latest",
+    "angular-locker": "latest",
+    "angular-smart-table": "latest",
+    "angular-moment": "latest",
+    "angular-ui-router": "latest",
+    "angular-utils-pagination": "latest",
+    "bignumber.js": "latest",
+    "moment-range": "latest",
+    "tinycolor": "latest",
+    "ui-router-extras": "latest",
+    "angular-cookie": "latest",
+    "angular-carousel": "latest"
   },
   "resolutions": {
     "angular": "latest",
     "angular-mocks": "latest"
-  },
-  "devDependencies": {}
+  }
 }
