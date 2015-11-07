@@ -1,6 +1,6 @@
 {
   "name": "Play Custom Seed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Web application project",
   "authors": [
     "Saint-Jean Pierrick"
@@ -37,9 +37,5 @@
     "ui-router-extras": "latest",
     "angular-cookie": "latest",
     "angular-carousel": "latest"
-  },
-  "resolutions": {
-    "angular": "latest",
-    "angular-mocks": "latest"
   }
 }
